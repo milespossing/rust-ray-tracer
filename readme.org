@@ -1,0 +1,5 @@
+* Rust Ray Tracer
+
+This is a basic ray tracer implemented in rust. I've done this before for a computer graphics course, but I'd like to try it again knowing what I know now.
+
+The majority of this will also be following the book [[https://raytracing.github.io/books/RayTracingInOneWeekend.html][Ray Tracing in One Weekend]] by Peter Shirley, Trevor David Black, and Steve Hollasch.
